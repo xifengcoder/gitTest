@@ -1,3 +1,4 @@
 empty
 init
 A
+B
